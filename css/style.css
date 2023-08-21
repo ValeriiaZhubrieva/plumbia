@@ -1216,6 +1216,8 @@ body::after {
 .footer__copy-item a {
   color: #1794C9;
   font-weight: 700;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
 }
 
 .footer__copy-text {
